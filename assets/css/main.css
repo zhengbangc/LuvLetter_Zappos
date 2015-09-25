@@ -3616,11 +3616,12 @@
 			}
 
 		#cta .inner .actions {
+			margin-top: 65px;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
 			order: 2;
-			width: 30%;
+			width: 27%;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -3686,7 +3687,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#main > header {
-				padding: 10em 0 8em 0 ;
+				padding: 5em 0 3em 0 ;
 			}
 
 		}
